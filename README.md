@@ -53,6 +53,7 @@ npm start
 <div align='center' >
     <img width='70%' src='https://github.com/AntonioMortari/aulas_senac_reactjs/assets/113060294/974e14af-0fdd-440c-a33a-d772950e6168' />
 </div>
+  caminho = /administrar
 
 ## Link do projeto publicado no Vercel
 <p>
