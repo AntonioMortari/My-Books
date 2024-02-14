@@ -1,5 +1,9 @@
 # Projeto My-Books APP
 
+<div align='center' >
+    <img width='70%' src='https://github.com/AntonioMortari/My-Books/assets/113060294/342514d9-8202-4035-95dc-bde798c66791' alt='imagem 1 do projeto' />
+</div>
+
 #### Dependências
 <div>
   <p>
@@ -35,25 +39,6 @@ cd api
 npm install
 npm start
 ```
-
-## Imagens do projeto
-
-<div align='center' >
-    <img width='70%' src='https://github.com/AntonioMortari/aulas_senac_reactjs/assets/113060294/f6553330-419e-4590-a9d6-5e17bef3c6c0' alt='imagem 1 do projeto' />
-</div>
-
-<div align='center' >
-    <img width='70%' src='https://github.com/AntonioMortari/aulas_senac_reactjs/assets/113060294/dbe5d950-b82e-424c-8887-b2d4b6468b96' alt='imagem 2 do projeto' />
-</div>
-
-<div align='center' >
-    <img width='70%' src='https://github.com/AntonioMortari/aulas_senac_reactjs/assets/113060294/29adc951-c13d-4c0d-94fb-89457ff78d88' alt='imagem 3 do projeto' />
-</div>
-
-<div align='center' >
-    <img width='70%' src='https://github.com/AntonioMortari/aulas_senac_reactjs/assets/113060294/974e14af-0fdd-440c-a33a-d772950e6168' />
-</div>
-  caminho = /administrar
 
 ## Link do projeto publicado no Vercel
 <p>
